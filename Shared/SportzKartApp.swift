@@ -1,0 +1,17 @@
+//
+//  SportzKartApp.swift
+//  Shared
+//
+//  Created by user226350 on 8/19/22.
+//
+
+import SwiftUI
+
+@main
+struct SportzKartApp: App {
+    var body: some Scene {
+        WindowGroup {
+            ContentView()
+        }
+    }
+}
